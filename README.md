@@ -6,6 +6,11 @@ Duration:July to August 2024
 Mentor:Muzammil
 
 Overview of the Project:
+![output_1](https://github.com/user-attachments/assets/2a412722-ecc8-4818-bfad-47c922d47929)
+
+
+
+
 Project:EXPLORATORY DATA ANALYSIS (EDA)
 
  Objectives:
