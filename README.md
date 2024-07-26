@@ -7,8 +7,14 @@ Mentor:Muzammil
 
 Overview of the Project:
 ![output_1](https://github.com/user-attachments/assets/2a412722-ecc8-4818-bfad-47c922d47929)
-
-
+![Screenshot 2024-07-25 235903](https://github.com/user-attachments/assets/6db39366-ed44-4656-9d64-bba154f28910)
+![Screenshot 2024-07-25 235931](https://github.com/user-attachments/assets/c31f02c7-93de-40b4-a306-656042be7580)
+![Screenshot 2024-07-26 000043](https://github.com/user-attachments/assets/1c0be95b-0c34-451e-86fe-c02237d9a99f)
+![Screenshot 2024-07-26 000111](https://github.com/user-attachments/assets/a69ac08a-8d31-42af-b22e-23a6c8368f33)
+![Screenshot 2024-07-26 000136](https://github.com/user-attachments/assets/d74b1ca3-ce3b-4298-8c14-6757304f80db)
+![Screenshot 2024-07-26 000233](https://github.com/user-attachments/assets/d4395914-fce8-4be9-957c-c3acb6c85794)
+![Screenshot 2024-07-26 000303](https://github.com/user-attachments/assets/797a329b-dc0f-49c6-b832-07d94e53a137)
+![Screenshot 2024-07-26 000326](https://github.com/user-attachments/assets/701dad9c-83fc-45da-8287-4adeffa44773)
 
 
 Project:EXPLORATORY DATA ANALYSIS (EDA)
