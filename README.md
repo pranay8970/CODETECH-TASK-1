@@ -6,6 +6,9 @@ Duration:July to August 2024
 Mentor:Muzammil
 
 Overview of the Project:
+
+Project: EXPLORATORY DATA ANALYSIS (EDA)
+
 ![output_1](https://github.com/user-attachments/assets/2a412722-ecc8-4818-bfad-47c922d47929)
 ![Screenshot 2024-07-25 235903](https://github.com/user-attachments/assets/6db39366-ed44-4656-9d64-bba154f28910)
 ![Screenshot 2024-07-25 235931](https://github.com/user-attachments/assets/c31f02c7-93de-40b4-a306-656042be7580)
@@ -16,8 +19,6 @@ Overview of the Project:
 ![Screenshot 2024-07-26 000303](https://github.com/user-attachments/assets/797a329b-dc0f-49c6-b832-07d94e53a137)
 ![Screenshot 2024-07-26 000326](https://github.com/user-attachments/assets/701dad9c-83fc-45da-8287-4adeffa44773)
 
-
-Project:EXPLORATORY DATA ANALYSIS (EDA)
 
  Objectives:
 - Perform exploratory data analysis (EDA) on a dataset to understand its characteristics, distributions, correlations, and outliers.
